@@ -19,7 +19,7 @@ final List<ReviewsProgressBar> reviewsProgress = [
   ),
   ReviewsProgressBar(
     imagePath: ImageConstant.textEightSevenPerct,
-    title: "Recommend",
+    title: "Recomend",
     subtitle: "Total 160",
   ),
 ];
